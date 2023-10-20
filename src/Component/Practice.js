@@ -6,6 +6,7 @@ export default function Practice() {
     <div>
         <h1>
             <WheatherApp/>
+            
         </h1>
     </div>
   )
